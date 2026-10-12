@@ -35,5 +35,16 @@
       "ga_id": "G-CMSWTCW06W"
     }
   },
-  "articles": []
+  "articles": [
+    {
+      "slug": "best-dutch-ovens-under-100",
+      "title": "The Best Dutch Ovens Under $100",
+      "description": "The iron is identical to the French pots. Under a hundred dollars, here is what you actually give up, and the three pots that give up the least.",
+      "category": "Roundup",
+      "hero": "hero-best-dutch-ovens-under-100",
+      "minutes": 13,
+      "date": "2026-10-12",
+      "featured": true
+    }
+  ]
 }
