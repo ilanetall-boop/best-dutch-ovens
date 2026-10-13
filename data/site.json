@@ -45,6 +45,16 @@
       "minutes": 13,
       "date": "2026-10-12",
       "featured": true
+    },
+    {
+      "slug": "le-creuset-vs-lodge-dutch-oven",
+      "title": "Le Creuset vs Lodge: Is the Premium Real?",
+      "description": "Five times the price for the same material. What the enamel, the lid and the warranty actually buy — and who should not pay for them.",
+      "category": "Comparison",
+      "hero": "hero-le-creuset-vs-lodge-dutch-oven",
+      "minutes": 15,
+      "date": "2026-10-13",
+      "featured": true
     }
   ]
 }
