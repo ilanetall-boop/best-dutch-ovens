@@ -65,6 +65,16 @@
       "minutes": 14,
       "date": "2026-10-14",
       "featured": true
+    },
+    {
+      "slug": "best-dutch-ovens-for-sourdough-bread",
+      "title": "The Best Dutch Ovens for Sourdough Bread",
+      "description": "Any heavy lidded pot traps the steam a loaf releases. What the size should be, what the lid must do, and why you do not need to spend much.",
+      "category": "Roundup",
+      "hero": "hero-best-dutch-ovens-for-sourdough-bread",
+      "minutes": 18,
+      "date": "2026-10-15",
+      "featured": true
     }
   ]
 }
