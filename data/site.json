@@ -75,6 +75,16 @@
       "minutes": 18,
       "date": "2026-10-15",
       "featured": true
+    },
+    {
+      "slug": "enameled-vs-bare-cast-iron",
+      "title": "Enameled or Bare Cast Iron: Which Should You Buy?",
+      "description": "One needs seasoning and resents tomatoes. The other is ready out of the box and chips. A genuine trade, explained without the folklore.",
+      "category": "Comparison",
+      "hero": "hero-enameled-vs-bare-cast-iron",
+      "minutes": 14,
+      "date": "2026-10-16",
+      "featured": true
     }
   ]
 }
