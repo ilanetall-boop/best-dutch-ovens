@@ -85,6 +85,16 @@
       "minutes": 14,
       "date": "2026-10-16",
       "featured": true
+    },
+    {
+      "slug": "how-to-care-for-an-enameled-dutch-oven",
+      "title": "How to Keep an Enameled Dutch Oven Looking New",
+      "description": "The enamel is glass. Everything that ruins one comes down to three habits, and all three are easy to avoid once you know them.",
+      "category": "How-to",
+      "hero": "hero-how-to-care-for-an-enameled-dutch-oven",
+      "minutes": 14,
+      "date": "2026-10-17",
+      "featured": true
     }
   ]
 }
