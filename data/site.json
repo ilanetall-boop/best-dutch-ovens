@@ -105,6 +105,16 @@
       "minutes": 15,
       "date": "2026-10-18",
       "featured": true
+    },
+    {
+      "slug": "dutch-oven-lid-design-explained",
+      "title": "What a Dutch Oven Lid Is Actually Doing",
+      "description": "Staub casts spikes into the underside to rain condensation back onto the food. That is a culinary decision, not a flourish — and it only matters for some cooking.",
+      "category": "Buying guide",
+      "hero": "hero-dutch-oven-lid-design-explained",
+      "minutes": 15,
+      "date": "2026-10-19",
+      "featured": true
     }
   ]
 }
