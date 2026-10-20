@@ -115,6 +115,16 @@
       "minutes": 15,
       "date": "2026-10-19",
       "featured": true
+    },
+    {
+      "slug": "best-dutch-ovens-for-braising",
+      "title": "The Best Dutch Ovens for Braising",
+      "description": "A four-hour braise is where a lid stops being a cover and starts being equipment. Three pots built for the long, slow, covered cook.",
+      "category": "Roundup",
+      "hero": "hero-best-dutch-ovens-for-braising",
+      "minutes": 15,
+      "date": "2026-10-20",
+      "featured": true
     }
   ]
 }
