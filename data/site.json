@@ -125,6 +125,16 @@
       "minutes": 15,
       "date": "2026-10-20",
       "featured": true
+    },
+    {
+      "slug": "round-vs-oval-dutch-oven",
+      "title": "Round or Oval Dutch Oven?",
+      "description": "Round suits burners and bread. Oval suits a joint and wastes heat on a hob. The choice is more practical than it looks.",
+      "category": "Comparison",
+      "hero": "hero-round-vs-oval-dutch-oven",
+      "minutes": 14,
+      "date": "2026-10-21",
+      "featured": true
     }
   ]
 }
