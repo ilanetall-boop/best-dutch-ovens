@@ -165,6 +165,16 @@
       "minutes": 15,
       "date": "2026-10-24",
       "featured": true
+    },
+    {
+      "slug": "dutch-oven-buying-guide",
+      "title": "How to Choose a Dutch Oven",
+      "description": "Five questions in the order that matters. Answer them and the shortlist writes itself — and the brand is the last of them, not the first.",
+      "category": "Buying guide",
+      "hero": "hero-dutch-oven-buying-guide",
+      "minutes": 14,
+      "date": "2026-10-25",
+      "featured": true
     }
   ]
 }
