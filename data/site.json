@@ -29,7 +29,12 @@
         "priority": "0.3"
       }
     ],
-    "network_card": null,
+    "network_card": {
+      "href": "https://best-knife-sets.com/",
+      "category": "From our network",
+      "title": "Knife sets, judged on what you actually use",
+      "description": "Everything that goes into the pot gets cut first. Our sister site works out what a 15-piece block really holds, what Rockwell hardness means for an edge, and how many knives a kitchen actually needs."
+    },
     "analytics": {
       "clarity_id": "yw35a6a242",
       "ga_id": "G-CMSWTCW06W"
