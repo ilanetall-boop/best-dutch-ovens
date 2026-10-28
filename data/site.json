@@ -200,6 +200,16 @@
       "minutes": 15,
       "date": "2026-10-27",
       "featured": true
+    },
+    {
+      "slug": "best-dutch-ovens-for-whole-chicken-and-pot-roast",
+      "title": "The Best Dutch Ovens for a Whole Chicken or a Pot Roast",
+      "description": "A bird or a joint needs room to sit flat and a lid that bastes it while it cooks. Three pots sized and shaped for a single roast, not a stew.",
+      "category": "Roundup",
+      "hero": "hero-best-dutch-ovens-for-whole-chicken-and-pot-roast",
+      "minutes": 14,
+      "date": "2026-10-28",
+      "featured": true
     }
   ]
 }
