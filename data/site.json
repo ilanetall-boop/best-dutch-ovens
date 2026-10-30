@@ -220,6 +220,16 @@
       "minutes": 15,
       "date": "2026-10-29",
       "featured": true
+    },
+    {
+      "slug": "how-to-judge-a-dutch-oven-without-a-star-rating",
+      "title": "How to Judge a Dutch Oven When Amazon Shows No Star Rating",
+      "description": "Plenty of listings in this category carry no visible rating at all. What to read instead: the spec line, the return window, and what the brand has shipped before.",
+      "category": "Buying guide",
+      "hero": "hero-how-to-judge-a-dutch-oven-without-a-star-rating",
+      "minutes": 14,
+      "date": "2026-10-30",
+      "featured": true
     }
   ]
 }
