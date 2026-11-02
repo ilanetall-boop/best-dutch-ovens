@@ -250,6 +250,16 @@
       "minutes": 16,
       "date": "2026-11-01",
       "featured": true
+    },
+    {
+      "slug": "best-dutch-ovens-for-beginners",
+      "title": "The Best Dutch Ovens for Someone Who Has Never Owned One",
+      "description": "No seasoning, no guesswork on temperature, and an enamel that forgives a first mistake. Three pots that make a good first Dutch oven, not a cheap one.",
+      "category": "Roundup",
+      "hero": "hero-best-dutch-ovens-for-beginners",
+      "minutes": 14,
+      "date": "2026-11-02",
+      "featured": true
     }
   ]
 }
