@@ -260,6 +260,16 @@
       "minutes": 14,
       "date": "2026-11-02",
       "featured": true
+    },
+    {
+      "slug": "staub-vs-le-creuset-dutch-oven",
+      "title": "Staub vs Le Creuset: The Two French Names, Compared",
+      "description": "Staub's lid rains condensation back onto the food. Le Creuset's doesn't need to. Two French makers, two different engineering answers, and a $30 gap that has nothing to do with quality.",
+      "category": "Comparison",
+      "hero": "hero-staub-vs-le-creuset-dutch-oven",
+      "minutes": 15,
+      "date": "2026-11-03",
+      "featured": true
     }
   ]
 }
