@@ -270,6 +270,16 @@
       "minutes": 15,
       "date": "2026-11-03",
       "featured": true
+    },
+    {
+      "slug": "overmont-vs-umite-chef-dutch-oven",
+      "title": "Overmont vs Umite Chef: Two Bundled Budget Lines, Compared",
+      "description": "Both brands ship a cookbook or a pair of potholders instead of competing on price alone. What's actually inside the box, and whether the bundle changes which one to buy.",
+      "category": "Comparison",
+      "hero": "hero-overmont-vs-umite-chef-dutch-oven",
+      "minutes": 16,
+      "date": "2026-11-04",
+      "featured": true
     }
   ]
 }
