@@ -280,6 +280,16 @@
       "minutes": 16,
       "date": "2026-11-04",
       "featured": true
+    },
+    {
+      "slug": "carote-vs-amazon-basics-dutch-oven",
+      "title": "CAROTE vs Amazon Basics: The Entry-Level Dutch Oven Showdown",
+      "description": "Under $48, these are two of the cheapest routes into enameled cast iron on Amazon. A floral lid and a plain linen-gray finish, and what each gives up to get there.",
+      "category": "Comparison",
+      "hero": "hero-carote-vs-amazon-basics-dutch-oven",
+      "minutes": 14,
+      "date": "2026-11-05",
+      "featured": true
     }
   ]
 }
