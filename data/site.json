@@ -290,6 +290,16 @@
       "minutes": 14,
       "date": "2026-11-05",
       "featured": true
+    },
+    {
+      "slug": "does-dutch-oven-color-matter",
+      "title": "Does Dutch Oven Color Actually Change Anything?",
+      "description": "Sage green, grey or red, the iron underneath is identical. What the pigment is, whether dark enamel hides scorch marks better than light, and the one way color really does affect your decision.",
+      "category": "Honest take",
+      "hero": "hero-does-dutch-oven-color-matter",
+      "minutes": 14,
+      "date": "2026-11-06",
+      "featured": true
     }
   ]
 }
