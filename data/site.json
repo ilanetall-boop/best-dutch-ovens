@@ -320,6 +320,16 @@
       "minutes": 13,
       "date": "2026-11-08",
       "featured": true
+    },
+    {
+      "slug": "dutch-oven-heat-retention-and-searing",
+      "title": "Heat Retention and Searing: The Spec Most Listings Don't Mention",
+      "description": "Capacity and colour are on every listing. Wall thickness, the thing that actually decides how well a pot holds heat through a cold steak, almost never is.",
+      "category": "Honest take",
+      "hero": "hero-dutch-oven-heat-retention-and-searing",
+      "minutes": 16,
+      "date": "2026-11-09",
+      "featured": true
     }
   ]
 }
