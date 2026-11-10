@@ -330,6 +330,16 @@
       "minutes": 16,
       "date": "2026-11-09",
       "featured": true
+    },
+    {
+      "slug": "dutch-oven-cocotte-casserole-same-pot-different-name",
+      "title": "Cocotte, Casserole, French Oven: Why the Same Pot Has Four Names",
+      "description": "Staub calls it a cocotte. Le Creuset calls the same shape a cocotte too, and also a signature oven. Nuovva just calls it a casserole pot. The names are marketing, not categories, and here is what actually separates them.",
+      "category": "Honest take",
+      "hero": "hero-dutch-oven-cocotte-casserole-same-pot-different-name",
+      "minutes": 14,
+      "date": "2026-11-10",
+      "featured": true
     }
   ]
 }
