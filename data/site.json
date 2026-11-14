@@ -370,6 +370,16 @@
       "minutes": 14,
       "date": "2026-11-13",
       "featured": true
+    },
+    {
+      "slug": "same-six-quarts-wildly-different-prices-dutch-oven",
+      "title": "Same Six Quarts, Four Different Prices: What Actually Changes?",
+      "description": "Four pots, all roughly six quarts, ranging from $42.99 to $89.90. The iron inside is the same iron. What the extra $47 actually buys, line by line.",
+      "category": "Comparison",
+      "hero": "hero-same-six-quarts-wildly-different-prices-dutch-oven",
+      "minutes": 17,
+      "date": "2026-11-14",
+      "featured": true
     }
   ]
 }
