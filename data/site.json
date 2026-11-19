@@ -420,6 +420,16 @@
       "minutes": 15,
       "date": "2026-11-18",
       "featured": true
+    },
+    {
+      "slug": "wide-shallow-dutch-ovens-explained",
+      "title": "Wide, Shallow Dutch Ovens: What a 3.5-Quart \"Wide\" Pot Is Actually For",
+      "description": "Le Creuset sells a 3.5-quart pot in two different shapes: a standard round and a wider, shallower profile. The shallow version is not a smaller pot, it is a different job.",
+      "category": "Buying guide",
+      "hero": "hero-wide-shallow-dutch-ovens-explained",
+      "minutes": 14,
+      "date": "2026-11-19",
+      "featured": true
     }
   ]
 }
