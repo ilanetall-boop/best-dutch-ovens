@@ -460,6 +460,16 @@
       "minutes": 15,
       "date": "2026-11-22",
       "featured": true
+    },
+    {
+      "slug": "mini-cocottes-for-single-serving-and-individual-portions",
+      "title": "Mini Cocottes: What a 0.25-Quart Dutch Oven Is Actually Good For",
+      "description": "A quarter-quart cocotte is not a small Dutch oven, it is a different object: built for a single portion of baked eggs or an individual dessert, not for cooking dinner. Where the format earns its place on a table.",
+      "category": "Buying guide",
+      "hero": "hero-mini-cocottes-for-single-serving-and-individual-portions",
+      "minutes": 15,
+      "date": "2026-11-23",
+      "featured": true
     }
   ]
 }
