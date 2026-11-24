@@ -470,6 +470,16 @@
       "minutes": 15,
       "date": "2026-11-23",
       "featured": true
+    },
+    {
+      "slug": "best-bare-cast-iron-dutch-ovens",
+      "title": "The Best Bare Cast Iron Dutch Ovens (No Enamel)",
+      "description": "Pre-seasoned, enamel-free cast iron costs less and takes direct flame without flinching. Three pots built for a campfire grate or a stovetop burner, not a showroom shelf.",
+      "category": "Roundup",
+      "hero": "hero-best-bare-cast-iron-dutch-ovens",
+      "minutes": 14,
+      "date": "2026-11-24",
+      "featured": true
     }
   ]
 }
