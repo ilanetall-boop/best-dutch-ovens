@@ -480,6 +480,16 @@
       "minutes": 14,
       "date": "2026-11-24",
       "featured": true
+    },
+    {
+      "slug": "best-oval-dutch-ovens",
+      "title": "The Best Oval Dutch Ovens for a Roast or a Whole Fish",
+      "description": "An oval pot is not a stretched round one; it is shaped for a joint of meat or a long fish, and it wastes heat on a round burner. Three oval pots across the price range.",
+      "category": "Roundup",
+      "hero": "hero-best-oval-dutch-ovens",
+      "minutes": 15,
+      "date": "2026-11-25",
+      "featured": true
     }
   ]
 }
