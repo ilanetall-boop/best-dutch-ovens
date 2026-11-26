@@ -490,6 +490,16 @@
       "minutes": 15,
       "date": "2026-11-25",
       "featured": true
+    },
+    {
+      "slug": "lodge-bold-vs-lodge-essential-dutch-oven",
+      "title": "Lodge BOLD vs Lodge Essential: Is the Redesign Worth It?",
+      "description": "Lodge's BOLD line is bare, pre-seasoned, and ten dollars more than the enameled Essential colors it sits beside in the same catalog. What the redesign actually changes, besides the finish.",
+      "category": "Comparison",
+      "hero": "hero-lodge-bold-vs-lodge-essential-dutch-oven",
+      "minutes": 12,
+      "date": "2026-11-26",
+      "featured": true
     }
   ]
 }
